@@ -1,0 +1,12 @@
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\obj\Debug\netstandard2.0\Insurance.ProductClient.csprojAssemblyReference.cache
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\obj\Debug\netstandard2.0\Insurance.ProductClient.AssemblyInfoInputs.cache
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\obj\Debug\netstandard2.0\Insurance.ProductClient.AssemblyInfo.cs
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\obj\Debug\netstandard2.0\Insurance.ProductClient.csproj.CoreCompileInputs.cache
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\bin\Debug\netstandard2.0\Insurance.ProductClient.deps.json
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\bin\Debug\netstandard2.0\Insurance.ProductClient.dll
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\bin\Debug\netstandard2.0\Insurance.ProductClient.pdb
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\bin\Debug\netstandard2.0\Insurance.Domain.dll
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\bin\Debug\netstandard2.0\Insurance.Domain.pdb
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\obj\Debug\netstandard2.0\Insurance.ProductClient.csproj.CopyComplete
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\obj\Debug\netstandard2.0\Insurance.ProductClient.dll
+C:\Users\Sipho\Documents\Programming\Interview Assessments\CoolBlue Tech Assessment V2\net-interviewing-project-v2\Insurance.Product.Client\obj\Debug\netstandard2.0\Insurance.ProductClient.pdb
